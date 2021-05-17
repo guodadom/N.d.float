@@ -57,6 +57,7 @@ p{
   border-top: 4px solid #0974b3;
   box-shadow: 1px 1px 0px 1px #eeee;
   display: inline-block;
+  float:left;
 }
 
 .block3{
